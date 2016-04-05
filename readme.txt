@@ -3,8 +3,12 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
+=======
+Git is very powerful.
+>>>>>>> Stashed changes
 =======
 Git is very powerful.
 >>>>>>> Stashed changes
